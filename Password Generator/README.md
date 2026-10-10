@@ -1,81 +1,29 @@
-Hey, I'm Sufiyaan 👋
+# Password Generator
 
-Aspiring Software Engineer | Python Developer in Progress | Future AI/ML Engineer
+A simple Python project that generates a random password based on the length you enter.
 
-I'm a first-year Computer Science Engineering student focused on building strong programming fundamentals, solving problems, and developing real-world projects.
+## Features
+- Asks the user for a password length
+- Generates a random password using letters and digits
+- Prints the final password to the console
 
-I believe in learning by building, improving consistently, and understanding how things work under the hood.
+## Requirements
+- Python 3.x
 
-- 🎓 Pursuing Computer Science Engineering
-- 🐍 Learning Python and expanding my programming toolkit
-- 🧠 Exploring Data Structures & Algorithms (DSA)
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🛠️ Building projects to turn knowledge into practical skills
-- 🎯 Long-term goals: Open-source contributions, GSoC, and software engineering opportunities
+## How to Run
+Open the project folder in a terminal and run:
 
----
+```bash
+python "password generator.py"
+```
 
-💻 Tech Stack
+Then enter the password length when prompted.
 
-Languages
+## Example
+```bash
+Enter password length: 12
+Your password is: aB7kL2mQx9pT
+```
 
-Python , C
-
-Currently Exploring
-
-NumPy , Git , Github
-
-Future Learning Goals
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Web Development
-- Databases and Backend Development
-- Machine Learning and AI
-
----
-
-🚀 Projects
-
-I'm building my foundation one project at a time.
-
-Project| What I'm Learning
-Number Guessing Game| Loops, conditionals, and user input
-Even or Odd Checker| Conditional logic and operators
-Personal Mini Projects| Python fundamentals and problem-solving
-
-More projects coming as I learn and build.
-
----
-
-📈 My Current Focus
-
--  Strengthen Python fundamentals
--  Master OOP, file handling, and exception handling
--  Explore Python libraries such as NumPy
--  Learn Git and GitHub workflows
--  Start DSA and problem-solving practice
--  Build and publish practical projects
--  Contribute to open source
-
----
-
-🌱 My Philosophy
-
-«Learn deeply. Build consistently. Improve every day.»
-
-I'm not here just to collect certificates or follow tutorials. My goal is to understand concepts, write my own code, solve meaningful problems, and become a capable engineer.
-
-This profile will document my progress, projects, and lessons along the way.
-
----
-
-🤝 Let's Connect
-
-I'm open to connecting with fellow developers, students, open-source contributors, and people who enjoy learning and building technology.
-
-📫 GitHub: mohammedsufiyan280208-hub
-
----
-
-⭐ Thanks for visiting my profile. Feel free to explore my repositories as I grow as a developer!
+## Notes
+This project creates passwords using uppercase letters, lowercase letters, and digits only. It does not include special characters such as !, @, #, or $.
